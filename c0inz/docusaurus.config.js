@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'c0inz.com',
-  tagline: 'Blockchain Enthusiasts',
+  tagline: 'NFTs, Cryptocurrency, Merch',
   url: 'https://c0inz.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/c0inz_icon.png',
   organizationName: 'c0inzdotcom', // Usually your GitHub org/user name.
   projectName: 'site', // Usually your repo name.
 
@@ -51,9 +51,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'about',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -102,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} c0inz.com, NFTs, Cryptocoins, Merch`,
+        copyright: `Copyright © ${new Date().getFullYear()} C0inz.com, NFTs, Cryptocoins, Merch`,
       },
       prism: {
         theme: lightCodeTheme,
