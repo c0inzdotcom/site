@@ -45,8 +45,8 @@ const config = {
       navbar: {
         title: 'c0inz.com',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'c0inz Logo',
+          src: 'img/c0inz_logo.png',
         },
         items: [
           {

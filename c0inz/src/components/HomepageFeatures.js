@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Get Merch!',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/c0inz_shirt.svg').default,
     description: (
       <>
         Checkout the c0inz.com merch! Get your NFTs on your gear!
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Coming Next',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/c0inz_logo.svg').default,
     description: (
       <>
         Check out our upcoming projects!
