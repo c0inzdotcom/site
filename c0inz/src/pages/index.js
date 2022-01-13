@@ -16,8 +16,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://opensea.io/collection/minic0inz-v1">
-            Checkout the Minic0inz Drop! 
+            to="https://opensea.io/collection/minic0inz">
+            The Minic0inz Drop is LIVE on Opensea.io! 
           </Link>
         </div>
       </div>
