@@ -80,7 +80,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/c0inzdotcom',
+                href: 'https://discord.gg/dRNA3zDB',
               },
               {
                 label: 'Twitter',
@@ -89,7 +89,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'More'https://discord.gg/dRNA3zDB,
             items: [
               {
                 label: 'Blog',
