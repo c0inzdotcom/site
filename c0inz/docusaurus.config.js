@@ -89,7 +89,7 @@ const config = {
             ],
           },
           {
-            title: 'More'https://discord.gg/dRNA3zDB,
+            title: 'More',
             items: [
               {
                 label: 'Blog',
