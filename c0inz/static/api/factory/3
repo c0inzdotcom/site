@@ -1,0 +1,21 @@
+{
+  "attributes": [
+    {
+      "trait_type": "items",
+      "value": "4"
+    },
+    {
+      "trait_type": "name",
+      "value": "Multipack 3"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "ultra"
+    }
+  ],
+  "description": "Minic0inz is a fun batch of 999 individually unique generative art c0inz in the spirit of cryptopunks.",
+  "edition": 1,
+  "name": "Minic0inz MultipacK 3#",
+  "image": "https://bafybeielhujz6crnblwu7h6isa27yufpgibujnf3kcerfhmpmz3dxa7luq.ipfs.dweb.link/images/1.png"
+}
+
